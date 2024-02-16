@@ -1,11 +1,11 @@
-package main.java.ru.jcf.test;
+package com.study.examples.schildt;
 
 public class Point {
     private int x;
     private int y;
     private int color;
 
-    public void printPoint () {
+    public void printPoint() {
         System.out.println("Цвет точки x=" + x + ", y=" + y + " " + color);
     }
 }

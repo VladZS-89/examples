@@ -1,4 +1,4 @@
-package main.java.com.interview;
+package com.study.examples.interview;
 
 public class FizzBuss {
     public static void main(String[] args) {

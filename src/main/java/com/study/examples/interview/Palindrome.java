@@ -1,4 +1,4 @@
-package main.java.com.interview;
+package com.study.examples.interview;
 
 
 public class Palindrome {
@@ -21,6 +21,6 @@ public class Palindrome {
 
     public static boolean isPalindrome2(String str) {
         StringBuilder sb = new StringBuilder(str);
-        return str.equals(sb.reverse().toString());
+        return str.contentEquals(sb.reverse());
     }
 }

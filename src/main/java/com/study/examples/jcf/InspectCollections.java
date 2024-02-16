@@ -1,4 +1,4 @@
-package main.java.ru.jcf.collections;
+package com.study.examples.jcf;
 
 import java.util.*;
 

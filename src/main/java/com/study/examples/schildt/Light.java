@@ -1,4 +1,4 @@
-package main.java.ru.jcf.test;
+package com.study.examples.schildt;
 
 public class Light {
     public static void main(String[] args) {
